@@ -1,0 +1,255 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 10404>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 10.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 37.02 Tm 0 Tr ( 1  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 37.02 Tm 0 Tr (#include<iostream>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 48.36 Tm 0 Tr ( 2  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 52.35 48.36 Tm 0 Tr (#include<stack>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.70 Tm 0 Tr ( 3  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 71.04 Tm 0 Tr ( 4  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 71.04 Tm 0 Tr (using namespace ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 148.35 71.04 Tm 0 Tr (std) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 166.35 71.04 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 82.37 Tm 0 Tr ( 5  ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 82.37 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 10.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 73.70 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 82.37 Tm 0 Tr (main) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 82.37 Tm 0 Tr (\(\)) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.71 Tm 0 Tr ( 6  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 93.71 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 105.05 Tm 0 Tr ( 7  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 105.05 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 76.35 105.05 Tm 0 Tr (stack ) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 112.35 105.05 Tm 0 Tr (<) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 118.35 105.05 Tm 0 Tr (string) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 154.35 105.05 Tm 0 Tr (> ) Tj  ET Q
+1.000 1.000 1.000 rg
+166.35 96.38 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 166.35 105.05 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 105.05 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 116.39 Tm 0 Tr ( 8  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.73 Tm 0 Tr ( 9  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 127.73 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 119.06 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 127.73 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 127.73 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 119.06 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 127.73 Tm 0 Tr (push) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 127.73 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 142.35 127.73 Tm 0 Tr ("kings of hearts") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 127.73 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 139.07 Tm 0 Tr (10  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 139.07 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 130.40 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 139.07 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 139.07 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 130.40 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 139.07 Tm 0 Tr (push) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 139.07 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 142.35 139.07 Tm 0 Tr ("kings of club") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 232.35 139.07 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 150.41 Tm 0 Tr (11  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 150.41 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 141.74 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 150.41 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 150.41 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 141.74 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 150.41 Tm 0 Tr (push) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 150.41 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 142.35 150.41 Tm 0 Tr ("kings of spade") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 238.35 150.41 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.74 Tm 0 Tr (12  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 161.74 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 153.07 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 161.74 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 161.74 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 153.07 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 161.74 Tm 0 Tr (push) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 161.74 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 142.35 161.74 Tm 0 Tr ("kings of diamond") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 250.35 161.74 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 173.08 Tm 0 Tr (13  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 173.08 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 76.35 173.08 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 173.08 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 112.35 173.08 Tm 0 Tr ("there are") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 178.35 173.08 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+190.35 164.41 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 190.35 173.08 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 173.08 Tm 0 Tr (.) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 226.35 173.08 Tm 0 Tr (size) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 250.35 173.08 Tm 0 Tr (\(\)<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 274.35 173.08 Tm 0 Tr ("cards in the deck") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 388.35 173.08 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 184.42 Tm 0 Tr (14  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 184.42 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 175.75 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 184.42 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 184.42 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 175.75 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 184.42 Tm 0 Tr (push) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 184.42 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 142.35 184.42 Tm 0 Tr ("ace of Spade") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 226.35 184.42 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.76 Tm 0 Tr (15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 195.76 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 187.09 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 195.76 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 195.76 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 187.09 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 195.76 Tm 0 Tr (push) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 136.35 195.76 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 142.35 195.76 Tm 0 Tr ("ace of hearts") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 232.35 195.76 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 207.10 Tm 0 Tr (16  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 207.10 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 76.35 207.10 Tm 0 Tr (string ) Tj  ET Q
+BT /F1 10.00 Tf ET
+1.000 1.000 1.000 rg
+118.35 198.43 42.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 118.35 207.10 Tm 0 Tr (topcard) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 160.35 207.10 Tm 0 Tr (=) Tj  ET Q
+1.000 1.000 1.000 rg
+166.35 198.43 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 166.35 207.10 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 207.10 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+202.35 198.43 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 202.35 207.10 Tm 0 Tr (top) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 207.10 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 218.44 Tm 0 Tr (17  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 218.44 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 76.35 218.44 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 218.44 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 112.35 218.44 Tm 0 Tr ("\\ntop card is\\t") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 214.35 218.44 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+226.35 209.77 42.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 226.35 218.44 Tm 0 Tr (topcard) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 218.44 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.78 Tm 0 Tr (18  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 229.78 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 221.11 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 229.78 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 106.35 229.78 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+112.35 221.11 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 112.35 229.78 Tm 0 Tr (pop) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 130.35 229.78 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 241.11 Tm 0 Tr (19  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 241.11 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 10.00 Tf ET
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 76.35 241.11 Tm 0 Tr (cout) Tj  ET Q
+BT /F1 10.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 241.11 Tm 0 Tr (<<) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 112.35 241.11 Tm 0 Tr ("\\ntop card is\\t") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 214.35 241.11 Tm 0 Tr (<<) Tj  ET Q
+1.000 1.000 1.000 rg
+226.35 232.44 30.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 226.35 241.11 Tm 0 Tr (cards) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 256.35 241.11 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+262.35 232.44 18.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 262.35 241.11 Tm 0 Tr (top) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 280.35 241.11 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 252.45 Tm 0 Tr (20  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.79 Tm 0 Tr (21  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 52.35 263.79 Tm 0 Tr (}) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 5 0 R
+/F1 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Names []
+>>
+endobj
+8 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 4)
+/CreationDate (D:20140127005030)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000010553 00000 n 
+0000010835 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000010642 00000 n 
+0000010741 00000 n 
+0000010949 00000 n 
+0000010980 00000 n 
+0000011087 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+11190
+%%EOF
